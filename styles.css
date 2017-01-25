@@ -1,0 +1,13 @@
+.appointment-button-wraper button {
+     width: 120px;
+     height: 120px;
+     background-color: white;
+     border: 1px solid;
+ }
+.appointment-button-wraper {
+      margin: 10px;
+}
+
+.appointment-slot-wraper:nth-of-type(4){
+
+}
